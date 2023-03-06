@@ -1,0 +1,97 @@
+HP:0000726	Dementia	1056155
+GO:0007568	Aging	943590
+HP:0002511	Familial Alzheimer's Disease	745464
+HP:0100543	Impaired cognition	459148
+GO:0010467	Gene Expression	343207
+D004194	Disease	322647
+GO:0006915	Apoptosis	278124
+GO:0012501	Apoptosis	230763
+D017209	Apoptosis	222920
+HP:0002354	Memory impairment	215345
+D003704	Dementia	196454
+D060825	Impaired cognition	174574
+GO:0042592	Homeostasis	164643
+D003643	Cessation of life	160049
+GO:0016265	Cessation of life	160049
+D000375	Aging	144250
+HP:0100753	Schizophrenia	141259
+GO:0051179	establishment and maintenance of localization	95837
+D015870	Gene Expression	94348
+HP:0001513	Obesity	93868
+D006706	Homeostasis	90923
+D009422	nervous system disorder	84157
+D000544	Alzheimer's Disease	339841
+D019636	Neurodegenerative Disorders	273746
+D009410	Nerve Degeneration	259830
+D018450	Disease Progression	78018
+HP:0002145	Frontotemporal dementia	74764
+D014158	"Transcription, Genetic"	74694
+GO:0032502	Biologic Development	74174
+HP:0001626	Cardiovascular Diseases	72986
+D008569	Memory impairment	72062
+HP:0100315	Lewy Body Disease	70651
+HP:0000716	Depressive disorder	62996
+HP:0005978	"Diabetes Mellitus, Non-Insulin-Dependent"	59943
+HP:0000822	Hypertensive disease	59297
+D010300	Parkinson Disease	56176
+GO:0008150	Biological Processes	48562
+HP:0001250	Epilepsy	45246
+GO:0030431	Sleep	49239
+HP:0001300	Parkinsonian Disorders	44208
+D009369	Malignant Neoplasms	39121
+D001284	Atrophic	38773
+D001686	Biological Processes	34911
+HP:0001268	Mental deterioration	29707
+D006816	Huntington Disease	28605
+D013577	Syndrome	28420
+HP:0007354	Amyotrophic Lateral Sclerosis	26862
+D001008	Anxiety Disorders	9111
+D001927	Brain Diseases	9090
+D002493	CNS disorder	9063
+HP:0002011	CNS disorder	9063
+D001930	Brain Injuries	9039
+HP:0000746	Delusions	8983
+D008659	Metabolic Diseases	8772
+D000070642	Traumatic Brain Injury	7750
+3075	CFH	7744
+D000163	Acquired Immunodeficiency Syndrome	7426
+D020774	Pick Disease of the Brain	7379
+D020138	Hyperhomocysteinemia	7217
+HP:0000717	Autistic Disorder	6129
+D000067562	Late-Onset Disorders	6114
+D020734	Parkinsonian Disorders	6566
+HP:0100651	"Diabetes Mellitus, Insulin-Dependent"	6177
+D009261	Nail-Patella Syndrome	6107
+GO:0042632	Cholesterol Homeostasis	5942
+HP:0100806	Septicemia	5680
+HP:0001677	Coronary Arteriosclerosis	5552
+D051436	Chronic Kidney Diseases	1051
+HP:0003124	Hypercholesterolemia	4793
+HP:0001635	Congestive heart failure	4605
+D034622	RNA Interference	4538
+GO:0019233	Pain Perception	4283
+GO:0016032	Virus Diseases	4115
+GO:0048532	Morphogenesis	4104
+GO:0007608	Smell Perception	3910
+D014777	Virus Diseases	3382
+GO:0002118	Aggressive behavior	2755
+D001714	Bipolar Disorder	2365
+D003141	Communicable Diseases	1743
+D030342	Hereditary Diseases	1828
+D003141	Communicable Diseases	1743
+D004435	Eating	1739
+D014855	Wallerian Degeneration	1051
+HP:0001370	Rheumatoid Arthritis	971
+D006470	Hemorrhage	987
+D010003	Degenerative polyarthritis	969
+D065626	Nonalcoholic Steatohepatitis	960
+HP:0012444	Degenerative brain disorder	17053
+GO:0045292	"nuclear mRNA cis splicing, via spliceosome"	63236
+GO:0009058	Anabolism	494778
+GO:0023052	biological signaling	245403
+GO:0006412	Protein Biosynthesis	54771
+GO:0008219	Cell Death	210806
+GO:0008152	Metabolism	180918
+GO:0009299	mRNA synthesis	1
+D008660	Metabolism	242026
+HP:0002664	Malignant Neoplasms	200621

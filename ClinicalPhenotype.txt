@@ -1,0 +1,116 @@
+Level	Molecular level
+GO:0046785	microtubule polymerization
+GO:0034205	amyloid-beta formation
+GO:0001540	amyloid-beta binding
+GO:0042982	amyloid precursor protein metabolicprocess
+GO:0042984	regulation of amyloid precursor protein biosynthetic process
+GO:0042985	negative regulation of amyloid precursor protein biosynthetic process
+GO:0042986	positive regulation of amyloid precursor protein biosynthetic process
+GO:0042987	amyloid precursor protein catabolicprocess
+GO:0050435	amyloid-beta metabolic process
+GO:0097242	amyloid-beta clearance
+GO:0106003	amyloid-beta complex
+GO:0150093	amyloid-beta clearance by transcytosis
+GO:0150094	amyloid-beta clearance by cellular catabolic process
+GO:1900221	regulation of amyloid-beta clearance
+GO:1900222	negative regulation of amyloid-betaclearance
+GO:1900223	positive regulation of amyloid-betaclearance
+GO:1902003	regulation of amyloid-beta formation
+GO:1902004	positive regulation of amyloid-betaformation
+GO:1902430	negative regulation of amyloid-betaformation
+GO:1902991	regulation of amyloid precursor protein catabolic process
+GO:1902992	negative regulation of amyloid precursor protein catabolic process
+GO:1902993	positive regulation of amyloid precursor protein catabolic process
+GO:1904645	response to amyloid-beta
+GO:1904646	cellular response to amyloid-beta
+GO:1905906	regulation of amyloid fibril formation
+GO:1905907	negative regulation of amyloid fibril formation
+GO:1905908	positive regulation of amyloid fibril formation
+GO:1990000	amyloid fibril formation
+HP:0001917	Renal amyloidosis
+HP:0003216	Generalized amyloid deposition
+HP:0003791	Deposits immunoreactive to beta-amyloid protein
+HP:0011970	Cerebral amyloid angiopathy
+HP:0025683	Abnormal amyloid beta 42 peptide CSF concentration
+HP:0025684	Decreased amyloid beta 42 peptide CSF concentration
+HP:0025685	Increased amyloid beta 42 peptide CSF concentration
+HP:0025686	Abnormal amyloid beta 40 peptide CSF concentration
+HP:0025687	Increased amyloid beta 40 peptide CSF concentration
+HP:0025688	Abnormal amyloid beta peptide CSF concentration
+HP:0030843	Cardiac amyloidosis
+HP:0030860	Abnormal CSF amyloid level
+HP:0030861	Decreased CSF amyloid level
+HP:0030862	Elevated CSF amyloid level
+HP:4000041	AA amyloidosis
+D000075363	Primary amyloidosis
+GO:0006975	DNA damage induced protein phosphorylation
+GO:0016310	phosphorylation
+D010766	Phosphorylation
+GO:0046785	microtubule polymerization
+GO:0008017	microtubule binding
+GO:0001578	microtubule bundle formation
+GO:0030693	caspase activity
+GO:0089720	caspase binding
+Level	Symptom level
+GO:0006979	response to oxidative stress
+GO:0008631	intrinsic apoptotic signaling pathway in response to oxidative stress
+GO:0036473	cell death in response to oxidativestress
+GO:0036475	neuron death in response to oxidative stress
+GO:0036480	neuron intrinsic apoptotic signaling pathway in response to oxidative stress
+GO:0043556	regulation of translation in response to oxidative stress
+GO:1900407	regulation of cellular response to oxidative stress
+GO:1900408	negative regulation of cellular response to oxidative stress
+GO:1900409	positive regulation of cellular response to oxidative stress
+GO:1902175	regulation of oxidative stress-induced intrinsic apoptotic signaling pathway
+GO:1902176	negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway
+GO:1902177	positive regulation of oxidative stress-induced intrinsic apoptotic signaling pathway
+GO:1902882	regulation of response to oxidativestress
+GO:1902883	negative regulation of response to oxidative stress
+GO:1902884	positive regulation of response to oxidative stress
+GO:1903201	regulation of oxidative stress-induced cell death
+GO:1903202	negative regulation of oxidative stress-induced cell death
+GO:1903203	regulation of oxidative stress-induced neuron death
+GO:1903204	negative regulation of oxidative stress-induced neuron death
+GO:1903209	positive regulation of oxidative stress-induced cell death
+GO:1903223	positive regulation of oxidative stress-induced neuron death
+GO:1903376	regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway
+GO:1903377	negative regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway
+GO:1903378	positive regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway
+GO:0051402	neuron apoptotic process
+GO:0070997	neuron death
+GO:0043504	mitochondrial DNA repair
+GO:1904124	microglial cell migration
+GO:0001774	microglial cell activation
+GO:0060785	regulation of apoptosis involved intissue homeostasis
+GO:0097194	execution phase of apoptosis
+GO:0006954	inflammatory response
+GO:1900117	regulation of execution phase of apoptosis
+GO:1900118	negative regulation of execution phase of apoptosis
+GO:1900119	positive regulation of execution phase of apoptosis
+HP:4000056	Abnormal apoptosis
+GO:0097418	neurofibrillary tangle
+GO:1902988	neurofibrillary tangle assembly
+GO:1902996	regulation of neurofibrillary tangl assembly
+GO:1902997	negative regulation of neurofibrillary tangle assembly
+GO:1902998	positive regulation of neurofibrillary tangle assembly
+GO:0150076	neuroinflammatory response
+GO:0150077	regulation of neuroinflammatory response
+GO:0150078	positive regulation of neuroinflammatory response
+GO:0150079	negative regulation of neuroinflammatory response
+HP:0100256	Senile plaques
+Level	Disease level
+HP:0006956	Dilation of lateral ventricles
+GO:0021801	cerebral cortex radial glia-guided migration
+GO:0021987	cerebral cortex development
+HP:0002538	Abnormal cerebral cortex morphology
+HP:0006891	Thick cerebral cortex
+HP:0007190	Neuronal loss in the cerebral cortex
+HP:0010993	Abnormality of the cerebral subcortex
+HP:0002180	Neurodegeneration
+HP:0033687	Short term memory impairment
+HP:0033688	Long term memory impairment
+HP:0033689	Anterograde memory impairment
+HP:0033690	Retrograde memory impairment
+HP:0033691	Procedural memory loss
+HP:0033692	Declarative memory loss
+HP:0031466	Impairment in personality functioning

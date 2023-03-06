@@ -1,0 +1,53 @@
+
+mitochondrial DNA repair GO:0043504 
+Neurons GO:0051402 GO:0070997
+Apoptosis D017209 GO:0097194
+caspase GO:1902362
+microglia GO:1904124 GO:0001774 
+inflammatory response GO:0006954
+Phosphorylation D010766 GO:0016310
+
+Microtubulin GO:0098840 GO:0046785 GO:0008017 GO:0007026
+microtubule formation GO:0046785
+neurofibrillary tangles GO:1902988 GO:1902988
+Senile Plaques HP:0100256
+Neurodegeneration  HP:0002180
+Oxidative Stress
+
+
+分子层面 
+amyloid plaques
+amyloid-betapeptide’s (Aβ) accumulation
+oxidative damage
+mitochondrial DNA repair
+Apoptosis 
+caspase 
+microglia 
+Phosphorylation 
+Microtubulin 
+microtubule formation GO:0046785
+
+
+表型层面
+neuritic plaques
+neurofibrillary tangles
+enlarged ventricles
+shrinkage of cerebral cortex
+inflammation
+inflammatory 
+Neurons 
+loss of neurons
+synaptic loss
+dystrophic neurites
+Senile Plaques
+Oxidative Stress
+
+
+疾病层面
+memory Impairment
+memory loss
+change of personality
+Neurodegeneration  
+
+
+
